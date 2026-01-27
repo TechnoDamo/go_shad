@@ -3,7 +3,7 @@ This is [Yandex Shad Golang](https://wiki.atp-fivt.org/index.php/Програм�
 Tsts for practical tasks are provided. 
 
 # Course cirriculum
-## 1. Introduction 
+## 1. [Introduction](./lectures/1.%20Introduction.md)
 - Design philosophy. 
 - if, switch, for. Hello, world. 
 - Command line arguments. 
