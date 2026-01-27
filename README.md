@@ -4,6 +4,7 @@ Tsts for practical tasks are provided.
 
 # Course cirriculum
 ## 1. [Introduction](./lectures/1.%20Introduction.md)
+### lecture content
 - Design philosophy. 
 - if, switch, for. Hello, world. 
 - Command line arguments. 
@@ -18,6 +19,14 @@ Tsts for practical tasks are provided.
 - gofmt. 
 - goimports. 
 - linting. 
+
+### practical tasks
+- sum
+- tour0
+- wordcount
+- urlfetch 
+- fetchall
+
 ## 2. Base language constructions 
 
 ## 3. Methods
