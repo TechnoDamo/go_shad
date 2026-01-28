@@ -1,7 +1,8 @@
 # Description
 This is [Yandex Shad Golang](https://wiki.atp-fivt.org/index.php/Программирование_на_Go_весна_2025#.D0.9F.D1.80.D0.BE.D0.B3.D1.80.D0.B0.D0.BC.D0.BC.D0.B0_.D0.B8_.D0.BC.D0.B0.D1.82.D0.B5.D1.80.D0.B8.D0.B0.D0.BB.D1.8B) course notes and solutions.
-Tsts for practical tasks are provided. 
+Tests for practical tasks are provided. 
 
+! these are just drafts of notes, they are yet to be completed anf finalised
 # Course cirriculum
 ## 1. [Introduction](./lectures/1.%20Introduction.md)
 ### lecture content
